@@ -4,6 +4,9 @@ color: #003366;
 background-image: linear-gradient(#ff7b5c, #ffffff);
 background-repeat: no-repeat;
 }
+a {
+color: #003366;
+}
 h1 {
 font-size: 30px;
 }
